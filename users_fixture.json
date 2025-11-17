@@ -1,0 +1,66 @@
+[
+    {
+        "model": "users.customuser",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$1000000$HMNhewl1gRRJKpewe2sWyO$EXARuN44mevMBEBV9p+2+qctBOYA/eKWIPrIkE10qD0=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "FirstModer",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2025-07-11T08:44:54.379Z",
+            "email": "first_moder@mail.ru",
+            "phone_number": null,
+            "avatar": "",
+            "city": null,
+            "confirmation_token": null,
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "users.customuser",
+        "pk": 3,
+        "fields": {
+            "password": "pbkdf2_sha256$1000000$CVN4ZxBfUATZqaM9fcd1Yd$qE9h2Q7myt8bX+k3alZKAts9fpNfImTRE2WTnCdFkV8=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "SecondModer",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "email": "second_moder@mail.ru",
+            "phone_number": null,
+            "avatar": "",
+            "city": null,
+            "confirmation_token": null,
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "users.customuser",
+        "pk": 4,
+        "fields": {
+            "password": "pbkdf2_sha256$1000000$seu3OHv5IL8lZwu4eMsleJ$/WCPRzG5ho0Y/q1mTcsodQhNkPJyAR3/84wA7oBXIsw=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "SimpleUser",
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "email": "simple_user@mail.ru",
+            "phone_number": null,
+            "avatar": "",
+            "city": null,
+            "confirmation_token": null,
+            "groups": [],
+            "user_permissions": []
+        }
+    }
+]

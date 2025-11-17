@@ -31,7 +31,7 @@
 ## 🔍 Проверка работы сервисов
 
 1. Django (веб-сервер)
-- URL: http://localhost:8000
+- URL: http://localhost:80
 - Проверить статус:
     ```bash
     docker-compose exec web python manage.py check
